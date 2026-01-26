@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bigyambat
-- 👀 I’m interested in Biomedical Informatics.
-- 🌱 I’m currently studying for a Bioinformatics Masters at USC Keck School of Medicine
+- 👀 I’m interested in Bioinformatics, Computational Biology, and applying computer science principles to the biology domain
+- 🌱 I’m currently a PhD student in the Genetics, Genomics, Bioinformatics program at UC Riverside
 - 💞️ I’m looking to collaborate on working on bioinformatics projects and learning new computational skills
 - 📫 Reach me through email at bigyambat@gmail.com
 
